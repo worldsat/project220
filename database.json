@@ -1,0 +1,657 @@
+{
+  
+  "Items": [
+    {
+      "Casts": [
+        {
+          "Actor": "Will Smith",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Will%20Smith.jpg?alt=media&token=a9d2a3d3-858a-415a-ae7f-6976d724b656"
+        },
+        {
+          "Actor": "Martin Lawrence",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Martin%20Lawrence.jpg?alt=media&token=ce65c037-5977-456f-89ee-7d43a4564abd"
+        },
+        {
+          "Actor": "Vanessa Hudgens",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Vanessa%20Hudgens.jpg?alt=media&token=44f44ec6-0128-4f73-8cc0-1ab0433f931c"
+        },
+        {
+          "Actor": "Alexander Ludwig",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Alexander%20Ludwig.jpg?alt=media&token=26cccd59-343e-42d7-ad51-77221154be7c"
+        }
+      ],
+      "Description": "When their late police captain gets linked to drug cartels, wisecracking Miami cops Mike Lowrey and Marcus Burnett embark on a dangerous mission to clear his name.",
+      "Genre": [
+        "Adventure",
+        "Action",
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "Imdb": 6.6,
+      "price":120.0,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Bad%20Boys.jpg?alt=media&token=90002e4a-891c-4939-b405-f6a1473f9b7b",
+      "Time": "1h 55m",
+      "Title": "Bad Boys",
+      "Trailer": "https://www.imdb.com/video/vi3000682009/?playlistId=tt4919268&ref_=tt_ov_vi",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Timothée Chalamet",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Timoth%C3%A9e%20Chalamet.jpg?alt=media&token=2e549653-8518-4644-8af5-aa47be7c09d2"
+        },
+        {
+          "Actor": "Zendaya",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Zendaya.jpg?alt=media&token=8e8fe906-4da5-4553-8279-8a9956599e07"
+        },
+        {
+          "Actor": "Rebecca Ferguson",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Rebecca%20Ferguson.jpg?alt=media&token=c805751e-2844-48ce-8610-166cd282286b"
+        },
+        {
+          "Actor": "Javier Bardem",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Javier%20Bardem.jpg?alt=media&token=1ea7f871-6562-4977-81f9-596fb71d1c23"
+        }
+      ],
+      "Description": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+      "Genre": [
+        "Adventure",
+        "Action",
+        "Drama"
+      ],
+      "Imdb": 8.5,
+      "price":120.0,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Dune%20Part%20Two.jpg?alt=media&token=439f8a72-c685-46ed-aac5-7117de77cf17",
+      "Time": "2h 46m",
+      "Title": "Dune: Part Two",
+      "Trailer": "https://www.imdb.com/video/vi3332425241/?playlistId=tt15239678&ref_=tt_pr_ov_vi",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Hilary Swank",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Hilary%20Swank.jpg?alt=media&token=a1c53ac6-ee4a-4e88-8096-f8578f86a8d4"
+        },
+        {
+          "Actor": "Alan Ritchson",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Alan%20Ritchson.jpg?alt=media&token=162a6fdb-eccc-41af-91a8-408b718eaa41"
+        },
+        {
+          "Actor": "Don Mike",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Don%20Mike.jpg?alt=media&token=920a766c-ee5f-4a93-8b12-ca2950092e33"
+        },
+        {
+          "Actor": "Tamala Jones",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Tamala%20Jones.jpg?alt=media&token=89d7d610-5603-46a7-8264-e90f8c30835b"
+        }
+      ],
+      "Description": "Inspired by the incredible true story of a hairdresser who single-handedly rallies an entire community to help a widowed father save the life of his critically ill young daughter.",
+      "Genre": [
+        "Drama"
+      ],
+      "Imdb": 7.4,
+      "price":120.0,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Ordinary%20Angels.jpg?alt=media&token=e94f3d09-3505-4993-9208-785052b4db5a",
+      "Time": "2h 6m",
+      "Title": "Ordinary Angels",
+      "Trailer": "https://www.imdb.com/video/vi3745105689/?ref_=tt_vi_i_2",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Ryan Gosling",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Ryan%20Gosling.jpg?alt=media&token=a2599fe3-4e38-430b-bd56-21c552358a6c"
+        },
+        {
+          "Actor": "Emily Blunt",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Emily%20Blunt.jpg?alt=media&token=fa22e23f-0c53-461f-babb-e4474f2dccbb"
+        },
+        {
+          "Actor": "Aaron Johnson",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Aaron%20Taylor-Johnson.jpg?alt=media&token=c5230f42-0e53-49c8-9981-ae7d461bb569"
+        },
+        {
+          "Actor": "Hannah Waddingham",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Hannah%20Waddingham.jpg?alt=media&token=87bc9b3e-d3b5-4ded-8330-c4f69477049f"
+        }
+      ],
+      "Description": "A stuntman, fresh off an almost career-ending accident, has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job. What could possibly go right?",
+      "Genre": [
+        "Comedy",
+        "Action",
+        "Drama"
+      ],
+      "Imdb": 6.9,
+      "price":120.0,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/The%20Fall%20Guy.jpg?alt=media&token=c2d9354e-a240-4441-9a5c-3a556830e5d0",
+      "Time": "2h 6m",
+      "Title": "The Fall Guy",
+      "Trailer": "https://www.imdb.com/video/vi1681377049/?ref_=ttvi_vi_imdb_21",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Sofia Boutella",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Sofia-Boutella.png?alt=media&token=5228f685-402e-427d-806c-ba232fc8105e"
+        },
+        {
+          "Actor": "Ed Skrein",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Ed-Skrein.png?alt=media&token=10ca5ad3-df69-4659-b93b-ac51d210e9cc"
+        },
+        {
+          "Actor": "Michiel Huisman",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Michiel-Huisman.png?alt=media&token=4af024cc-bcaf-4e29-9419-92329a0ace57"
+        },
+        {
+          "Actor": "Djimon Hounsou",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Djimon-Hounsou.png?alt=media&token=8b948e3f-19bf-48c3-8368-73da254038b2"
+        }
+      ],
+      "Description": "A young woman with a mysterious past is tasked with uniting different tribes to fight against an oppressive warlord who threatens their peaceful colony.",
+      "Genre": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "Imdb": 9,
+      "price":120.0,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/aqKtSJdsUYNhEYfV42AYpamhEle.jpg?alt=media&token=91799666-41bd-4640-8470-07b3147da3b7",
+      "Time": "2h 22m",
+      "Title": "Rebel Moon",
+      "Trailer": "https://www.youtube.com/watch?v=UEJuNHOd8Dw",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Sydney Sweeney",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Sydney-Sweeney.png?alt=media&token=c8cecc39-ffbb-4893-9993-182c8078055a"
+        },
+        {
+          "Actor": " lvaro Morte",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Alvaro-Morte.png?alt=media&token=23a796f0-ad84-4332-83f3-2282eb9ee1bb"
+        },
+        {
+          "Actor": "Simona Tabasco",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Simona-Tabasco.png?alt=media&token=2817ec96-323e-4b69-a129-cfbc121159e3"
+        },
+        {
+          "Actor": "Benedetta Porcaroli",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Benedetta-Porcaroli.png?alt=media&token=e1038e80-48ce-43af-9346-d3073cca74df"
+        }
+      ],
+      "Description": "A young woman who possesses the ability to heal others must fight to protect her gift from those who would exploit it.",
+      "Genre": [
+        "Drama",
+        "Fantasy"
+      ],
+      "Imdb": 8.3,
+      "price":120.0,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/fdZpvODTX5wwkD0ikZNaClE4AoW.jpg?alt=media&token=d669f273-9633-4cb5-b416-e0f79a610ea7",
+      "Time": "1h 36m",
+      "Title": "Immaculate",
+      "Trailer": "https://www.youtube.com/watch?v=ewxS9Z-XXYo",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Rebecca Hall",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Rebecca-Hall.png?alt=media&token=fff9a405-c20c-4704-855f-d40e4cb75ecd"
+        },
+        {
+          "Actor": "Brian Tyree Henry",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Brian-Tyree-Henry.png?alt=media&token=2dc8ae1d-cce1-4106-8cc6-5ea2a98998eb"
+        },
+        {
+          "Actor": "Dan Stevens",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Dan-Stevens.png?alt=media&token=da50ebb6-4d3e-4e78-918e-0094cb8279d2"
+        },
+        {
+          "Actor": "Kaylee Hottle",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Kaylee-Hottle.png?alt=media&token=ea367e94-8d40-4df3-9274-03e69c1df736"
+        }
+      ],
+      "Description": "Godzilla and Kong must team up to battle a common enemy that threatens to destroy both of their worlds.",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "Imdb": 8.5,
+      "price":120.0,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/gmGK5Gw5CIGMPhOmTO0bNA9Q66c.jpg?alt=media&token=734fca39-eff1-4cb1-93be-308b6187c2b3",
+      "Time": "1h 56m",
+      "Title": "Godzilla-Kong",
+      "Trailer": "https://www.youtube.com/watch?v=qqrpMRDuPfc",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Colm Meaney",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Colm-Meaney.png?alt=media&token=2650c663-7b88-47e1-941f-f0e9103ef60b"
+        },
+        {
+          "Actor": "Will Attenborough",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Will-Attenborough.png?alt=media&token=0cf07591-e278-4584-979a-02c1a408ec1a"
+        },
+        {
+          "Actor": "Jeremias Amoore",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Jeremias-Amoore.png?alt=media&token=4bca63fb-2558-4016-a798-52cf2f25b003"
+        },
+        {
+          "Actor": "Sophie McIntosh",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Sophie-McIntosh.png?alt=media&token=ca25c8be-b0e0-447a-93fc-e459abe33990"
+        }
+      ],
+      "Description": "A group of strangers trapped in an elevator must find a way to escape before they run out of air.",
+      "Genre": [
+        "Thriller",
+        "Drama"
+      ],
+      "Imdb": 7.5,
+      "price":120.0,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg?alt=media&token=32f2c83f-de98-4e6e-a5cc-81d33d5323e0",
+      "Time": "1h 38m",
+      "Title": "No Way Up",
+      "Trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Jack Black",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Jack-Black.png?alt=media&token=5d8b70cf-1e8e-4423-8028-03dd19277c64"
+        },
+        {
+          "Actor": "Awkwafina",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Awkwafina.png?alt=media&token=79dff5eb-ecf4-4cbb-939f-98901aa504fa"
+        },
+        {
+          "Actor": "Viola Davis",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Viola-Davis.png?alt=media&token=af35c531-e268-426d-bd70-89cdf6002450"
+        },
+        {
+          "Actor": "Djimon Hounsou",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Djimon-Hounsou.png?alt=media&token=8b948e3f-19bf-48c3-8368-73da254038b2"
+        }
+      ],
+      "Description": "Po and the Furious Five must once again defend the Jade Palace from a new threat.",
+      "Genre": [
+        "Thriller",
+        "Drama"
+      ],
+      "Imdb": 7.5,
+      "price":120.0,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg?alt=media&token=e2eeb516-64dd-4f7d-8bc6-268f85be28ec",
+      "Time": "1h 42m",
+      "Title": "Kung Fu Panda 4",
+      "Trailer": "https://www.youtube.com/watch?v=_inKs4eeHiI",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Fran ois Civil",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Fran%C3%A7ois-Civil.png?alt=media&token=940f3c2c-4a7a-488a-b7e3-d580f2fc4266"
+        },
+        {
+          "Actor": "Vincent Cassel",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Vincent-Cassel.png?alt=media&token=3747bb32-c5fa-4169-ae27-878bb28d0b46"
+        },
+        {
+          "Actor": "Romain Duris",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Romain-Duris.png?alt=media&token=50aade39-e5cb-477f-b9e2-63772cdce96b"
+        },
+        {
+          "Actor": "Pio Marma ",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Pio-Marma%C3%AF.png?alt=media&token=ed5926d4-9466-451c-bb66-5d839405febb"
+        }
+      ],
+      "Description": "A young man named D'Artagnan travels to Paris to become a musketeer and joins forces with Athos, Porthos, and Aramis to stop a plot to overthrow the king.",
+      "Genre": [
+        "Action",
+        "Adventure"
+      ],
+      "Imdb": 8.2,
+      "price":120.0,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/rtosxP5sXuoRFPH4sVbMccLIPiV.jpg?alt=media&token=f93e0560-0869-4fef-a258-adcf0b1cc6f5",
+      "Time": "2h 7m",
+      "Title": "The Three Musketeers",
+      "Trailer": "https://www.youtube.com/watch?v=FsuJMqePZtg",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Samuel L. Jackson",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Samuel-L.-Jackson.png?alt=media&token=d0ac6db1-21e8-463d-a563-b8d66de8da46"
+        },
+        {
+          "Actor": "Vincent Cassel",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Vincent-Cassel.png?alt=media&token=3747bb32-c5fa-4169-ae27-878bb28d0b46"
+        },
+        {
+          "Actor": "Gianni Capaldi",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Gianni-Capaldi.png?alt=media&token=3d8b9882-c4c5-4526-be4e-db26dc2a65fe"
+        },
+        {
+          "Actor": "Laura Haddock",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Laura-Haddock.png?alt=media&token=8df65136-003d-48bf-99de-58ef7f745696"
+        }
+      ],
+      "Description": "A war veteran struggling with PTSD seeks revenge on the people who killed his family.",
+      "Genre": [
+        "Action",
+        "Thriller"
+      ],
+      "Imdb": 8.6,
+      "price":120.0,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg?alt=media&token=71387566-ab09-4901-9fd2-117b9b567488",
+      "Time": "1h 54m",
+      "Title": "Damaged",
+      "Trailer": "https://www.youtube.com/watch?v=Sg8NuJL5P_8",
+      "Year": 2023
+    }
+  ],
+  "Upcomming": [
+    {
+      "Casts": [
+        {
+          "Actor": "Scarlett Johansson",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Scarlett%20Johansson.jpg?alt=media&token=3f47f029-7206-4d1e-89b4-7b9c89169924"
+        },
+        {
+          "Actor": "Channing Tatum",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Channing%20Tatum.jpg?alt=media&token=7f0fbdb0-c51b-4819-a7b6-9186cc54d2d3"
+        },
+        {
+          "Actor": "Woody Harrelson",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Woody%20Harrelson.jpg?alt=media&token=ef5c2d2a-29a1-46c5-b393-1540015fb84e"
+        },
+        {
+          "Actor": "Ray Romano",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Ray%20Romano.jpg?alt=media&token=5b919a6d-1675-42e2-ac51-affde8bbe841"
+        }
+      ],
+      "Description": "Marketing maven Kelly Jones wreaks havoc on launch director Cole Davis's already difficult task. When the White House deems the mission too important to fail, the countdown truly begins.",
+      "Genre": [
+        "Comedy",
+        "Ramonce"
+      ],
+      "Imdb": 6.6,
+      "price":120.0,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Fly%20Me%20to%20the%20Moon.jpg?alt=media&token=53642115-ee98-4ba9-913a-c153bab3751d",
+      "Time": "2h 12m",
+      "Title": "Fly Me to the Moon",
+      "Trailer": "https://www.imdb.com/video/vi2956707353/?playlistId=tt1896747&ref_=tt_ov_vi",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Jennifer Lopez",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Jennifer%20Lopez.jpg?alt=media&token=1871234d-1ded-4de5-a1da-b93ec0b4baba"
+        },
+        {
+          "Actor": "Simu Liu",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Simu%20Liu.jpg?alt=media&token=7b5b1b25-6d52-49b9-9be7-7888ea6dbc09"
+        },
+        {
+          "Actor": "Sterling K. Brown",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Sterling%20Brown.jpg?alt=media&token=71870fb7-7908-47e5-8202-7b1878008601"
+        },
+        {
+          "Actor": "Greg Cohan",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Greg%20Cohan.jpg?alt=media&token=471c8e8d-17ec-4b9d-b3e5-ff525148d147"
+        }
+      ],
+      "Description": "In a bleak-sounding future, an A.I. soldier has determined that the only way to end war is to end humanity.",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Thriller",
+        "Drama"
+      ],
+      "Imdb": 5.6,
+      "price":120.0,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project201-af261.appspot.com/o/Atlas.jpg?alt=media&token=3fce799c-91fb-415d-b571-0041ab41d2f0",
+      "Time": "1h 58m",
+      "Title": "Atlas",
+      "Trailer": "https://www.imdb.com/video/vi1105249817/?playlistId=tt14856980&ref_=tt_pr_ov_vi",
+      "Year": 2024
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Fran ois Civil",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Fran%C3%A7ois-Civil.png?alt=media&token=940f3c2c-4a7a-488a-b7e3-d580f2fc4266"
+        },
+        {
+          "Actor": "Vincent Cassel",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Vincent-Cassel.png?alt=media&token=3747bb32-c5fa-4169-ae27-878bb28d0b46"
+        },
+        {
+          "Actor": "Romain Duris",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Romain-Duris.png?alt=media&token=50aade39-e5cb-477f-b9e2-63772cdce96b"
+        },
+        {
+          "Actor": "Pio Marma ",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Pio-Marma%C3%AF.png?alt=media&token=ed5926d4-9466-451c-bb66-5d839405febb"
+        }
+      ],
+      "Description": "A young man named D'Artagnan travels to Paris to become a musketeer and joins forces with Athos, Porthos, and Aramis to stop a plot to overthrow the king.",
+      "Genre": [
+        "Action",
+        "Adventure"
+      ],
+      "Imdb": 8.2,
+      "price":120.0,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/rtosxP5sXuoRFPH4sVbMccLIPiV.jpg?alt=media&token=f93e0560-0869-4fef-a258-adcf0b1cc6f5",
+      "Time": "2h 7m",
+      "Title": "The Three Musketeers",
+      "Trailer": "https://www.youtube.com/watch?v=FsuJMqePZtg",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Samuel L. Jackson",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Samuel-L.-Jackson.png?alt=media&token=d0ac6db1-21e8-463d-a563-b8d66de8da46"
+        },
+        {
+          "Actor": "Vincent Cassel",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Vincent-Cassel.png?alt=media&token=3747bb32-c5fa-4169-ae27-878bb28d0b46"
+        },
+        {
+          "Actor": "Gianni Capaldi",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Gianni-Capaldi.png?alt=media&token=3d8b9882-c4c5-4526-be4e-db26dc2a65fe"
+        },
+        {
+          "Actor": "Laura Haddock",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Laura-Haddock.png?alt=media&token=8df65136-003d-48bf-99de-58ef7f745696"
+        }
+      ],
+      "Description": "A war veteran struggling with PTSD seeks revenge on the people who killed his family.",
+      "Genre": [
+        "Action",
+        "Thriller"
+      ],
+      "Imdb": 8.6,
+      "price":120.0,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg?alt=media&token=71387566-ab09-4901-9fd2-117b9b567488",
+      "Time": "1h 54m",
+      "Title": "Damaged",
+      "Trailer": "https://www.youtube.com/watch?v=Sg8NuJL5P_8",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Sofia Boutella",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Sofia-Boutella.png?alt=media&token=5228f685-402e-427d-806c-ba232fc8105e"
+        },
+        {
+          "Actor": "Ed Skrein",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Ed-Skrein.png?alt=media&token=10ca5ad3-df69-4659-b93b-ac51d210e9cc"
+        },
+        {
+          "Actor": "Michiel Huisman",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Michiel-Huisman.png?alt=media&token=4af024cc-bcaf-4e29-9419-92329a0ace57"
+        },
+        {
+          "Actor": "Djimon Hounsou",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Djimon-Hounsou.png?alt=media&token=8b948e3f-19bf-48c3-8368-73da254038b2"
+        }
+      ],
+      "Description": "A young woman with a mysterious past is tasked with uniting different tribes to fight against an oppressive warlord who threatens their peaceful colony.",
+      "Genre": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "Imdb": 9,
+      "price":120.0,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/aqKtSJdsUYNhEYfV42AYpamhEle.jpg?alt=media&token=91799666-41bd-4640-8470-07b3147da3b7",
+      "Time": "2h 22m",
+      "Title": "Rebel Moon",
+      "Trailer": "https://www.youtube.com/watch?v=UEJuNHOd8Dw",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Sydney Sweeney",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Sydney-Sweeney.png?alt=media&token=c8cecc39-ffbb-4893-9993-182c8078055a"
+        },
+        {
+          "Actor": " lvaro Morte",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Alvaro-Morte.png?alt=media&token=23a796f0-ad84-4332-83f3-2282eb9ee1bb"
+        },
+        {
+          "Actor": "Simona Tabasco",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Simona-Tabasco.png?alt=media&token=2817ec96-323e-4b69-a129-cfbc121159e3"
+        },
+        {
+          "Actor": "Benedetta Porcaroli",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Benedetta-Porcaroli.png?alt=media&token=e1038e80-48ce-43af-9346-d3073cca74df"
+        }
+      ],
+      "Description": "A young woman who possesses the ability to heal others must fight to protect her gift from those who would exploit it.",
+      "Genre": [
+        "Drama",
+        "Fantasy"
+      ],
+      "Imdb": 8.3,
+      "price":120.0,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/fdZpvODTX5wwkD0ikZNaClE4AoW.jpg?alt=media&token=d669f273-9633-4cb5-b416-e0f79a610ea7",
+      "Time": "1h 36m",
+      "Title": "Immaculate",
+      "Trailer": "https://www.youtube.com/watch?v=ewxS9Z-XXYo",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Rebecca Hall",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Rebecca-Hall.png?alt=media&token=fff9a405-c20c-4704-855f-d40e4cb75ecd"
+        },
+        {
+          "Actor": "Brian Tyree Henry",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Brian-Tyree-Henry.png?alt=media&token=2dc8ae1d-cce1-4106-8cc6-5ea2a98998eb"
+        },
+        {
+          "Actor": "Dan Stevens",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Dan-Stevens.png?alt=media&token=da50ebb6-4d3e-4e78-918e-0094cb8279d2"
+        },
+        {
+          "Actor": "Kaylee Hottle",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Kaylee-Hottle.png?alt=media&token=ea367e94-8d40-4df3-9274-03e69c1df736"
+        }
+      ],
+      "Description": "Godzilla and Kong must team up to battle a common enemy that threatens to destroy both of their worlds.",
+      "Genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "Imdb": 8.5,
+      "price":120.0,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/gmGK5Gw5CIGMPhOmTO0bNA9Q66c.jpg?alt=media&token=734fca39-eff1-4cb1-93be-308b6187c2b3",
+      "Time": "1h 56m",
+      "Title": "Godzilla-Kong",
+      "Trailer": "https://www.youtube.com/watch?v=qqrpMRDuPfc",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Colm Meaney",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Colm-Meaney.png?alt=media&token=2650c663-7b88-47e1-941f-f0e9103ef60b"
+        },
+        {
+          "Actor": "Will Attenborough",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Will-Attenborough.png?alt=media&token=0cf07591-e278-4584-979a-02c1a408ec1a"
+        },
+        {
+          "Actor": "Jeremias Amoore",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Jeremias-Amoore.png?alt=media&token=4bca63fb-2558-4016-a798-52cf2f25b003"
+        },
+        {
+          "Actor": "Sophie McIntosh",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Sophie-McIntosh.png?alt=media&token=ca25c8be-b0e0-447a-93fc-e459abe33990"
+        }
+      ],
+      "Description": "A group of strangers trapped in an elevator must find a way to escape before they run out of air.",
+      "Genre": [
+        "Thriller",
+        "Drama"
+      ],
+      "Imdb": 7.5,
+      "price":120.0,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg?alt=media&token=32f2c83f-de98-4e6e-a5cc-81d33d5323e0",
+      "Time": "1h 38m",
+      "Title": "No Way Up",
+      "Trailer": "https://www.youtube.com/watch?v=PSEoAaSswgo",
+      "Year": 2023
+    },
+    {
+      "Casts": [
+        {
+          "Actor": "Jack Black",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Jack-Black.png?alt=media&token=5d8b70cf-1e8e-4423-8028-03dd19277c64"
+        },
+        {
+          "Actor": "Awkwafina",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Awkwafina.png?alt=media&token=79dff5eb-ecf4-4cbb-939f-98901aa504fa"
+        },
+        {
+          "Actor": "Viola Davis",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Viola-Davis.png?alt=media&token=af35c531-e268-426d-bd70-89cdf6002450"
+        },
+        {
+          "Actor": "Djimon Hounsou",
+          "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/Djimon-Hounsou.png?alt=media&token=8b948e3f-19bf-48c3-8368-73da254038b2"
+        }
+      ],
+      "Description": "Po and the Furious Five must once again defend the Jade Palace from a new threat.",
+      "Genre": [
+        "Thriller",
+        "Drama"
+      ],
+      "Imdb": 7.5,
+      "price":120.0,
+      "Poster": "https://firebasestorage.googleapis.com/v0/b/project182-1.appspot.com/o/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg?alt=media&token=e2eeb516-64dd-4f7d-8bc6-268f85be28ec",
+      "Time": "1h 42m",
+      "Title": "Kung Fu Panda 4",
+      "Trailer": "https://www.youtube.com/watch?v=_inKs4eeHiI",
+      "Year": 2024
+    }
+  ]
+}
